@@ -34,7 +34,7 @@ skills:
       - name: Stata
         description: ''
         percent: 80
-        icon: stata
+        icon: stata.svg
       - name: RStudio
         description: ''
         percent: 100
@@ -42,7 +42,7 @@ skills:
       - name: Canva
         description: ''
         percent: 40
-        icon: canva
+        icon: canva.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -50,11 +50,11 @@ skills:
       - name: Video Games
         description: ''
         percent: 80
-        icon: gamepad
+        icon: gamepad.svg
       - name: Reading
         description: ''
         percent: 100
-        icon: book
+        icon: book.svg
       - name: Hiking
         description: ''
         percent: 60
