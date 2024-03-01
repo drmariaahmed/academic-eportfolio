@@ -12,9 +12,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-#ID
-id: home
-
 title: Hello
 
 # Choose the user profile to display

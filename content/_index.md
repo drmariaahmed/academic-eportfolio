@@ -45,8 +45,4 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: about
-    content: About
-      title: About Me
-      username: admin
 ---
