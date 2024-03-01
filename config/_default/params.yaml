@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Maria Ahmed. Made with Hugo Apéro.'
+    notice: '© {year} Maria Ahmed.'
     license:
       enable: true
       allow_derivatives: false
@@ -53,3 +53,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+    
+# Resume
+icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
