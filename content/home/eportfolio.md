@@ -1,6 +1,6 @@
 ---
 # A section created with the Portfolio widget.
-# This section displays content from `content/project/`.
+# This section displays content from `content/home/`.
 # See https://docs.hugoblox.com/widget/portfolio/
 widget: portfolio
 
