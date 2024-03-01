@@ -41,7 +41,7 @@ skills:
         icon: devicon/rstudio
       - name: Canva
         description: ''
-        percent: 40
+        percent: 60
         icon: devicon/canva
   - name: Hobbies
     color: '#eeac02'
@@ -54,7 +54,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: hero/book
+        icon: book
       - name: Hiking
         description: ''
         percent: 60

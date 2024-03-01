@@ -8,8 +8,8 @@ main:
     url: /
     weight: 10
   - name: ePortfolio
-    url: post/
+    url: eportfolio/
     weight: 20
-  - name: About Me
-    url: uses/
+  - name: About
+    url: about/
     weight: 30
