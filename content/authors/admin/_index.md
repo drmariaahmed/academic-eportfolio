@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Maria Ahmed
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Maria
+last_name: Ahmed
 
 # Status emoji
 status:
@@ -17,27 +14,26 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Western University, Department of Sociology
+    url: https://sociology.uwo.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:maria.ahmed@uwo.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/Dr_Maria_Ahmed
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/drmariaahmed
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/drmariaahmed/
+
 
 education:
   - area: PhD Artificial Intelligence
