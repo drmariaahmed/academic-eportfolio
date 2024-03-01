@@ -34,7 +34,7 @@ skills:
       - name: Stata
         description: ''
         percent: 80
-        icon: devicon/stata
+        icon: stata
       - name: RStudio
         description: ''
         percent: 100
@@ -50,11 +50,11 @@ skills:
       - name: Video Games
         description: ''
         percent: 80
-        icon: gamepad.svg
+        icon: gamepad
       - name: Reading
         description: ''
         percent: 100
-        icon: book.svg
+        icon: book
       - name: Hiking
         description: ''
         percent: 60
