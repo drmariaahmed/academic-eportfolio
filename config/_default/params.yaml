@@ -54,7 +54,3 @@ features:
   privacy_pack:
     enable: false
     
-# Resume
-icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
