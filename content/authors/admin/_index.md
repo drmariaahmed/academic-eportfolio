@@ -92,10 +92,10 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Stata
         description: ''
         percent: 80
-        icon: devicon/python
+        icon: devicon/stata
       - name: RStudio
         description: ''
         percent: 100
