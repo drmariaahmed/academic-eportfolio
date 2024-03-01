@@ -17,8 +17,6 @@ organizations:
   - name: Western University, Department of Sociology
     url: https://sociology.uwo.ca/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:maria.ahmed@uwo.com'
@@ -30,8 +28,6 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/drmariaahmed/
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -64,7 +60,6 @@ skills:
         percent: 60
         icon: person-simple-walk
       
-
 languages:
   - name: English
     percent: 100
@@ -73,7 +68,8 @@ languages:
   - name: Urdu
     percent: 75
 
-
+banner:
+  image: 'header.png'
 ---
 
 Maria is a SSHRC Doctoral Fellow (2023-2026) at Western University and a CAnD3 Fellow (2023-2024). Her research interests lie at the intersection of population health and public policy with a focus on structural and social inequalities. Using quantitative and qualitative research designs, Maria examines inequalities in health and the impacts of public policies on disadvantaged populations.
