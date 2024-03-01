@@ -34,7 +34,7 @@ skills:
       - name: Stata
         description: ''
         percent: 80
-        icon: devicon/stata_original_watermark
+        icon: devicon/stata
       - name: RStudio
         description: ''
         percent: 100
@@ -54,7 +54,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: hero/book_open
+        icon: hero/book
       - name: Hiking
         description: ''
         percent: 60
