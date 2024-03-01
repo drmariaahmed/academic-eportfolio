@@ -16,9 +16,7 @@ role: PhD Candidate, SSHRC Doctoral Fellow, CAnD3 Fellow
 organizations:
   - name: Western University, Department of Sociology
   url: https://sociology.uwo.ca/
-  - name: Consortium on Analytics for Data-Driven Decision-Making (CAnD3)
-  url: https://www.mcgill.ca/cand3/
-    
+ 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
