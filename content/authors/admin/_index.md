@@ -15,8 +15,7 @@ role: PhD Candidate, SSHRC Doctoral Fellow, CAnD3 Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Western University, Department of Sociology
-  url: https://sociology.uwo.ca/
- 
+    url: https://sociology.uwo.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

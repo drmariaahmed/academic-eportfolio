@@ -7,9 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: ePortfolio
-    url: eporfolio/
+  - name: Blog
+    url: post/
     weight: 20
-  - name: CV
-    url: cv/
+  - name: Uses
+    url: uses/
     weight: 30

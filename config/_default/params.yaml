@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Maria Ahmed. Made with Hugo Apéro'
+    notice: '© {year} Maria Ahmed. Made with Hugo Apéro.'
     license:
       enable: true
       allow_derivatives: false
