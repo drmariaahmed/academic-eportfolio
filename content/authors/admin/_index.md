@@ -68,8 +68,7 @@ languages:
   - name: Urdu
     percent: 75
 
-banner:
-  image: 'header.png'
+
 ---
 
 Maria is a SSHRC Doctoral Fellow (2023-2026) at Western University and a CAnD3 Fellow (2023-2024). Her research interests lie at the intersection of population health and public policy with a focus on structural and social inequalities. Using quantitative and qualitative research designs, Maria examines inequalities in health and the impacts of public policies on disadvantaged populations.
