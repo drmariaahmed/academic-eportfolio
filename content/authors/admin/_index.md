@@ -2,9 +2,6 @@
 # Display name
 title: Maria Ahmed
 
-# Page type - we want a landing page (such as a homepage)
-type: landing
-
 # Full name (for SEO)
 first_name: Maria
 last_name: Ahmed
