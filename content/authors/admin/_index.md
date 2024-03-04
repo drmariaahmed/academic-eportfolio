@@ -2,6 +2,9 @@
 # Display name
 title: Maria Ahmed
 
+# Page type - we want a landing page (such as a homepage)
+type: landing
+
 # Full name (for SEO)
 first_name: Maria
 last_name: Ahmed
@@ -30,18 +33,19 @@ profiles:
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  # A section to display blog posts
+#A section to display blog posts
   - block: collection
-    id: artifact-1
+    id: section-1
     content:
-      title: Artifact 1
+      title: Section 1
       subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: data-viz
+      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       # Display content from the `content/post/` folder
       filters:
         folders:
           - post
-    design:
+    design: 
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # Choose your content listing view - here we use the `showcase` view
