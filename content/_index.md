@@ -25,12 +25,6 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: buttons
-    content:
-      buttons:
-        - title: Learn More
-          icon: magnifying-glass
-          url: about/
   - block: experience
     content:
       username: admin
