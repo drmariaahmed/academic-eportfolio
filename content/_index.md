@@ -18,9 +18,6 @@ sections:
       button:
         text: Download Résumé
         url: uploads/resume.pdf
-      button:
-        text: Learn More
-        url: about/
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -28,6 +25,12 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+  - block: buttons
+    content:
+      buttons:
+        - title: Learn More
+          icon: magnifying-glass
+          url: about/
   - block: experience
     content:
       username: admin
