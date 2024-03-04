@@ -10,7 +10,7 @@ active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 10
 
 title: Maria Ahmed - About Me
 
@@ -19,13 +19,5 @@ title: Maria Ahmed - About Me
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
 
-# Page sections
-sections:
-  - block: biography
-    content:
-      username: admin
-    design:
-      biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+
 ---
