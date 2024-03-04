@@ -7,6 +7,10 @@
 appearance:
   mode: system
   color: blue
+  theme_day: custom
+  theme_night: custom
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:
@@ -30,6 +34,12 @@ marketing:
 header:
   navbar:
     enable: true
+    align: r
+    show_logo: false
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: false
 #    blox: floating-theme-toggler
 
 # Site footer
